@@ -30,7 +30,7 @@ When you are ready to create a container, open the **APPS** page, select the **A
 
 ![AvailableApplicationsScreen](/images/SCALE/22.02/AvailableApplicationsScreen.png "Available Applications")
 
-Fill in the **Application Name** and click **Next**. Add the github repository URL in **Image Repository** for the docker container are setting up. For example, to add Pi-Hole in **Launch Docker Image** wizard, enter **pihole/pihole** as the [PiHole project](https://hub.docker.com/r/pihole/pihole) image repository on the **Container Image** configuration screen.
+Fill in the **Application Name** and click **Next**. Add the dockerhub repository URL in **Image Repository** for the docker container are setting up. For example, to add Pi-Hole in **Launch Docker Image** wizard, enter **pihole/pihole** as the [PiHole project](https://hub.docker.com/r/pihole/pihole) image repository on the **Container Image** configuration screen.
 
 ![LaunchDockerImagePiholeContainerImage](/images/SCALE/22.02/LaunchDockerImagePiholeContainerImage.png "Pi-Hole Container Image")
 
